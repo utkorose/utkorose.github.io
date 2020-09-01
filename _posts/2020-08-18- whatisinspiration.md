@@ -1,4 +1,5 @@
 ---
+image: https://images.utkorose.ru/brain-4490831_1280.jpg
 published: true
 description: >-
   Я встречал 4 понимания этого слова:
