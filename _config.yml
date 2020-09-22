@@ -1,7 +1,7 @@
 # Setup
 title:               Славелий Роза
 tagline:             'Весь как есть'
-description:         'Тут типа описание, да'
+description:         'Блог и немного информации'
 url:                 https://utkorose.ru
 baseurl:             ''
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           /:title
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Славелий Роза
+  url:               https://twitter.com/utkorose
+  email:             utkorose@yandex.ru
 
 # Gems
 plugins:
