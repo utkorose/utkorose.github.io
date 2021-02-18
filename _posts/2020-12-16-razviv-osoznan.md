@@ -3,6 +3,7 @@ published: true
 title: Как развивать осознанность
 comments: true
 description: Немного практики
+image: 'https://images.utkorose.ru/sherlock-holmes.jpg'
 ---
 Есть две вещи, которые помогают это развивать, но сначала рекомендую прочитать «[Что такое осознанность](/awareness)», чтобы точно понять, почему я предлагаю именно их
 
