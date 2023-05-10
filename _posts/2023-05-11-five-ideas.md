@@ -1,6 +1,6 @@
 ---
 published: true
-title: 5 идей
+title: Развиваем творческую жилку(креативность) с помощью пяти идей в день
 description: Простое упражнение для развития креативности
 image: 'https://images.utkorose.ru/man-641691_640.jpg'
 comments: true
