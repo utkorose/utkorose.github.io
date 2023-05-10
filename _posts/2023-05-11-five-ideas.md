@@ -1,9 +1,7 @@
 ---
 published: true
 title: 5 идей
-description: >-
-  Связь между многими болезнями и психическими расстройствами есть, но можно
-  творить и будучи здоровым человеком
+description: Простое упражнение для развития креативности
 image: 'https://images.utkorose.ru/man-641691_640.jpg'
 comments: true
 ---
