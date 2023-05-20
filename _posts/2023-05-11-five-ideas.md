@@ -34,3 +34,5 @@ comments: true
 Также рекомендую упражнение «утренние страницы». Оно тоже раскочегаривает генерацию идей. И подробно расписано, как именно его делать.
 
 Вот так, такое вот упражнение для развития творческой жилки/креативности — 5 идей каждый день.
+
+<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="snEiI-Kp" data-limit="5" data-page-id="five-ideas"></script>
