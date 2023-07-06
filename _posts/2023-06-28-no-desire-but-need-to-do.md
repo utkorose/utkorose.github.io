@@ -32,3 +32,5 @@ image: 'https://images.utkorose.ru/nodesire.jpg'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdZEe-NCL8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTO8Jj0fg5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="snEiI-Kp" data-limit="5" data-page-id="no-desire-but-need-to-do"></script>
