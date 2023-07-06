@@ -27,10 +27,10 @@ image: 'https://images.utkorose.ru/nodesire.jpg'
 
 Понравилась статья? Оставьте комментарий, прочитайте остальные. А так же посмотрите другие мои проекты
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PVNEjxNRnLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtiwenZkN72Q0MmNWQyCBUGsHKWiMm8La" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdZEe-NCL8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLcYsKHbJZ9MUhe5bTLQ4LCHhTMCFWp635" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTO8Jj0fg5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLef1L-7O-LN7KGpP-QzuhVyG4Z0P-SR3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="snEiI-Kp" data-limit="5" data-page-id="no-desire-but-need-to-do"></script>
