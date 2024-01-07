@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: Неделя попугаев
-image: 'https://images.utkorose.ru/parrotsweek'
+image: 'https://images.utkorose.ru/parrotsweek.png'
 ---
 # Неделя попугаев: скачать аудио
 
