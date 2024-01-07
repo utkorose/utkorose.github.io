@@ -2,6 +2,7 @@
 published: true
 title: Неделя попугаев
 image: 'https://images.utkorose.ru/parrotsweek.png'
+description: Видео и скачивание аудио из недели попугаев
 ---
 # Неделя попугаев: скачать аудио
 
