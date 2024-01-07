@@ -1,10 +1,10 @@
 ---
 published: true
-title: Неделя попугаев
+title: Неделя попугаев (ссылка на скачивание аудио в посте)
 image: 'https://images.utkorose.ru/parrotsweek.png'
 description: Видео и скачивание аудио из недели попугаев
 ---
-# Неделя попугаев: скачать аудио
+
 
 <iframe width="376" height="668" src="https://www.youtube.com/embed/xeW6UajmIyY" title="Это просто Кеша кавер на Attention Charlie Puth #песня #music #попугай #неделяпопугаев #мемы" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
