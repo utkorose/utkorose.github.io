@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Нет воды(клип)
+image: 'https://images.utkorose.ru/netvody.png'
 ---
 # Клип на песню «Нет воды»
 
