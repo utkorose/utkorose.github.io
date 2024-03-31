@@ -16,7 +16,9 @@ comments: true
 Если понравится — [gruppa.utkorose.ru](https://gruppa.utkorose.ru)
 
 ## Сольные странички
-[Паблик в ВК](https://vk.com/utkorosepublic)
+- <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@utkorose" data-unique-id="utkorose" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@utkorose?refer=creator_embed">@utkorose</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+- [Паблик в ВК](https://vk.com/utkorosepublic)
+- 
 
 ## Факты о Славилии Розе
 
@@ -44,7 +46,3 @@ comments: true
 20. У него один глаз добрый, а другой хитрый.
 21. На самом деле Роза — колония ментальных пауков, сожравших личность предыдущего обладателя тела, поселившихся а нём, эволюционировавшая до разумности и ценности вселенского гуманизма, испытывающая глубокое чувство вины за содеянное.
 22. Уточка кря-кря-кря.
-
-## Контакты
-
-vrom1990@yandex.ru
