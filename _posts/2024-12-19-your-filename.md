@@ -1,5 +1,5 @@
 ---
-image: 'https://images.utkorose.ru/pylesos.jpg'
+image: 'https://images.utkorose.ru/serg-cover.png'
 published: true
 title: "«Серёга снёс яйцо» —\_новая песня про попугая вышла!"
 ---
